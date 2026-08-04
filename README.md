@@ -38,7 +38,6 @@ Rscript exploratory_analysis.R
 
 `visualizations.R` and `exploratory_analysis.R` use R's built-in `mtcars` dataset, so they run standalone with no external file needed.
 
-**Note:** I don't have an R environment available to execute-test these scripts before publishing, so give each one a run in RStudio and check the output before you push — worth catching anything before it's live on the repo.
 
 ## Background
 
